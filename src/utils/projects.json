@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Budget Tracker",
+      "image": "assets/images/budgetScreen.png",
+      "deployLink": "https://budget-trac.herokuapp.com/",
+      "description": "Budget tracker app is a PWA app.This app is a fast and easy way to track users money flow by allowing them to access that information anytime(online or offline).",
+      "github": "https://github.com/Graphicaction/Budget-Trac",
+      "technologies":["HTML", "CSS", "JavaScript", "Chart.js", "PWA"]
+    },
+    {
+      "id": 2,
+      "name": "Workout Logger",
+      "image": "assets/images/workoutScreen.png",
+      "deployLink": "https://fitness-trac.herokuapp.com/",
+      "description": "Workout tracker app helps one to view, create and track daily workouts. The user can log multiple exercises in a workout on a given day.",
+      "github": "https://github.com/Graphicaction/workout_tracker",
+      "technologies":["HTML", "CSS", "JavaScript", "Chart.js", "MongoDB"]
+    },
+    {
+      "id": 3,
+      "name": "Code Query",
+      "image": "assets/images/code-query.png",
+      "deployLink": "https://code--query.herokuapp.com/",
+      "description": "'Cody Query' is an application that allows bootcamp students to ask and manage questions and answers. The users connected can communicate in real-time.",
+      "github": "https://github.com/Steffield/Mentor-Match",
+      "technologies":["Handlebars", "Passport", "Sequelize", "Express", "Socket.io"]
+    },
+    {
+      "id": 4,
+      "name": "Eat-Da-Burger",
+      "image": "assets/images/burgerScreen.png",
+      "deployLink": "https://eat-th-burger.herokuapp.com/",
+      "description": "'Eat-Da-Burger' is a restaurant app that lets users input the names of burgers they'd like to eat. Each burger in the waiting area also has a 'Devour it!' button. When the user clicks it, the burger will move to the right side of the page indicating it is devoured!",
+      "github": "https://github.com/Graphicaction/eat-da-burger",
+      "technologies":["Node js", "Mysql", "Express", "Handlebars"]
+    },
+    {
+      "id": 5,
+      "name": "Employee Manager",
+      "image": "assets/images/employeemgnt.gif",
+      "deployLink": "https://github.com/Graphicaction/employee-tracker/blob/master/images/screen.gif",
+      "description": "'Employee-tracker' is a command line application that lets one to view and manage the departments, roles, and employees in a company.",
+      "github": "https://github.com/Graphicaction/employee-tracker",
+      "technologies":["Node js", "Mysql", "Express", "Jest"]
+    },
+    {
+      "id": 6,
+      "name": "Weather App",
+      "image": "assets/images/weatherScreen.png",
+      "deployLink": "https://graphicaction.github.io/weatherApi/",
+      "description": "The weather application comes with search functionality to find current weather conditions and the future weather outlook for multiple cities.",
+      "github": "https://github.com/Graphicaction/weatherApi",
+      "technologies":["HTML", "CSS", "JavaScript", "jQuery", "AJAX"]
+    },
+    {
+      "id": 7,
+      "name": "Readme generator",
+      "image": "assets/images/readScreen.gif",
+      "deployLink": "https://github.com/Graphicaction/readme-generator/blob/master/images/screen.gif",
+      "description": "'Readme-generator' application comes handy for users to create readme file for the repositories.",
+      "github": "https://github.com/Graphicaction/readme-generator",
+      "technologies":["Node js", "Mysql", "Express", "Jest"]
+    }
+  ]
+  
