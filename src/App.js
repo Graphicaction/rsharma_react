@@ -6,26 +6,24 @@ import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
-import Row from "./components/Row";
-import Col from "./components/Col"
 
 function App() {
   return (
     <Router>
       <div>
-        <Row>
-          <Col size="4">
+        <div className="row mx-0 mt-0">
+          <div className="col-sm-3 col-md-4 col-lg-3 nav-block text-center">
             <Navbar />
-          </Col>
-          <Col size ="8">  
+          </div>
+          <div className="col-sm-8 col-md-7 col-lg-8">  
             <Wrapper>
               <Route exact path="/" component={Home} />
               <Route exact path="/home" component={Home} />
               <Route exact path="/portfolio" component={Portfolio} />
               <Route exact path="/contact" component={Contact} />
             </Wrapper>
-          </Col>
-        </Row>
+          </div>
+        </div>
         <Footer />
       </div>
     </Router>

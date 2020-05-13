@@ -1,3 +1,19 @@
 nav.navbar.navbar-default {
     margin-bottom: 0;
-  }
+}
+
+.img {
+  border-radius: 50%;
+  width: 70%;
+  height: auto;
+}
+
+/* style for left section and all buttons */
+.nav-block, .btn {
+  background-color: maroon;
+  opacity:0.8;
+  color: white;
+}
+.nav-contents {
+  color: white;
+}

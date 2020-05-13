@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => (
   <div>
-    <h1>About Page</h1>
+    <h1>Contact Page</h1>
     <p>
       Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
       ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam
