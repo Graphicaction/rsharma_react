@@ -6,16 +6,17 @@ import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
+import './App.css'
 
 function App() {
   return (
     <Router>
-      <div>
+      <div className="my-page">
         <div className="row mx-0 mt-0">
           <div className="col-sm-3 col-md-4 col-lg-3 nav-block text-center">
             <Navbar />
           </div>
-          <div className="col-sm-8 col-md-7 col-lg-8">  
+          <div className="col-sm-9 col-md-8 col-lg-9">  
             <Wrapper>
               <Route exact path="/" component={Home} />
               <Route exact path="/home" component={Home} />

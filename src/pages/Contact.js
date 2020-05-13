@@ -2,14 +2,34 @@ import React from "react";
 
 const Contact = () => (
   <div>
-    <h1>Contact Page</h1>
-    <p>
-      Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
-      ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam
-      quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-      imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed rhoncus mollis
-      diam, sit amet facilisis lectus blandit at.
-    </p>
+    <div className="border-top border-bottom border-dark text-center py-2 headings h1">
+        Contact me
+    </div>
+    <div className="shadow mt-5" id="contact-div">
+        <table className="table table-dark table-hover text-center">
+          <tbody>
+            <tr className="row-span-2">
+              <td>E-mail:</td>
+              <td  className="contact-info-text">
+                  <i className="icon fa fa-envelope"></i> <span>rksharma2679@gmail.com</span>
+              </td>
+            </tr>  
+            <tr className="mb-1">
+                <td>LinkedIn</td>
+                <td className="contact-info-text"><a rel="noopener noreferrer" href="https://www.linkedin.com/in/rashmi-sharma9/" target="_blank"><i className="fa fa-linkedin fa-lg"></i> rashmi-sharma</a></td>
+            </tr>
+            <tr className="mb-1">
+                <td>Github:</td>
+                <td className="contact-info-text"><a rel="noopener noreferrer" href="https://github.com/graphicaction" target="_blank"><i className="fa fa-github fa-lg"></i> Graphicaction</a></td>
+            </tr>   
+            <tr className="mb-1">
+              <td>Resume:</td>
+              <td className="contact-info-text"><a rel="noopener noreferrer" href="https://drive.google.com/open?id=1KPE5I7rSDb9rgoXctPqXX0WPow2Rk_Ve" target="_blank"><i className="fa fa-sticky-note"></i> Rashmi Sharma</a></td>
+          </tr>
+        </tbody>
+                             
+      </table>
+    </div>
   </div>
 );
 

@@ -17,3 +17,19 @@ nav.navbar.navbar-default {
 .nav-contents {
   color: white;
 }
+
+.nav-link {
+  color: maroon;
+  background-color: rgb(240, 189, 94);
+  border: rgb(13, 0, 128);
+}
+
+.nav-link:hover {
+  color: black;
+  background-color: mediumslateblue;
+}
+
+.fa {
+  color: lightgray;
+}
+

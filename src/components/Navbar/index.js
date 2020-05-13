@@ -7,36 +7,36 @@ function Navbar() {
   return (
     <div className="nav-contents mx-2">
       <div className="my-5">
-          <img className="img img-thumbnail mb-3" src={require('../../images/mypic.jpg')} alt="My pic" />
+          <img className="img img-thumbnail mb-2" src={require('../../images/mypic.jpg')} alt="My pic" />
           <h3>Rashmi Sharma</h3>
           <h5><i>Full-Stack Web Developer</i></h5>
       </div>
-      <div className="nav flex-column nav-pills h5 mb-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+      <div className="nav flex-column">
         <ul className="navbar-nav">
-          <li className="nav-item" id="about-me-tab" data-toggle="pill" role="tab" aria-controls="about-me">
+          <li className="nav-item mb-1">
             <Link
               to="/"
               className={
                 window.location.pathname === "/" || window.location.pathname === "/home"
-                  ? "nav-link active"
-                  : "nav-link"
+                  ? "nav-link active font-weight-bold"
+                  : "nav-link font-weight-bold"
               }
             >
-              Home
+              About me
             </Link>
           </li> 
-          <li className="nav-item" id="portfolio-tab" data-toggle="pill" role="tab" aria-controls="portfolio">
+          <li className="nav-item mb-1">
             <Link
               to="/portfolio"
-              className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
+              className={window.location.pathname === "/portfolio" ? "nav-link active font-weight-bold" : "nav-link font-weight-bold"}
             >
               Portfolio
             </Link>
           </li>
-          <li className="nav-item" id="contact-tab" data-toggle="pill" role="tab" aria-controls="contact">
+          <li className="nav-item mb-1">
             <Link
               to="/contact"
-              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+              className={window.location.pathname === "/contact" ? "nav-link active font-weight-bold" : "nav-link font-weight-bold"}
             >
               Contact
             </Link>
@@ -47,11 +47,11 @@ function Navbar() {
         <div className="link-content">
             <div className="social-icons">
                 <a rel="noopener noreferrer" href="https://www.linkedin.com/in/rashmi-sharma9/" target="_blank" className="button button-icon">
-                    <i className="fa fa-linkedin fa-lg mx-2"></i>
+                    <i className="fa fa-linkedin fa-lg mr-3"></i>
                 </a>
                 
                 <a rel="noopener noreferrer" href="https://github.com/Graphicaction" target="_blank" className="button button-icon">
-                    <i className="fa fa-github fa-lg mr-2"></i>
+                    <i className="fa fa-github fa-lg ml-3"></i>
                 </a>
             </div>
         </div>
