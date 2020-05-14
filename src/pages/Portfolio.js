@@ -7,6 +7,7 @@ import CardContainer from '../components/CardContainer';
 
 function Portfolio() {
   const [projects, setProjects] = useState([]);
+  const [project, setProject] = useState({});
   
   // When the component mounts, a call will be made to get random users.
   useEffect(() => {
@@ -16,21 +17,28 @@ function Portfolio() {
   function loadProjects() {
     API.getProjects()
       .then(projects => {
-        console.log(projects);
+        //console.log(projects);
         setProjects(projects);
+        setProject(projects[0]);
       })
       .catch(err => console.log(err));
   }
 
   return (
-    <ProjectContext.Provider value={{ projects }}>
-      <div>
-        <div className="border-top border-bottom border-dark text-center py-2 headings h1">
-        My latest projects
+    <div>
+    {projects.length ? (
+      <ProjectContext.Provider value={{ project, projects }}>
+        <div>
+          <div className="border-top border-bottom border-dark text-center py-2 headings h1">
+          My latest projects
+          </div>
+          <CardContainer />
         </div>
-        <CardContainer />
-      </div>
-    </ProjectContext.Provider>
+      </ProjectContext.Provider>
+    ): 
+      (<h3>No Results to Display</h3>)
+    }
+    </div>
   );
 }
 

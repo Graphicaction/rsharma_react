@@ -19,7 +19,6 @@ function App() {
           <div className="col-sm-9 col-md-8 col-lg-9">  
             <Wrapper>
               <Route exact path="/" component={Home} />
-              <Route exact path="/home" component={Home} />
               <Route exact path="/portfolio" component={Portfolio} />
               <Route exact path="/contact" component={Contact} />
             </Wrapper>
