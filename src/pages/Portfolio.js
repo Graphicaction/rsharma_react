@@ -17,7 +17,6 @@ function Portfolio() {
   function loadProjects() {
     API.getProjects()
       .then(projects => {
-        //console.log(projects);
         setProjects(projects);
         setProject(projects[0]);
       })
