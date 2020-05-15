@@ -40,7 +40,7 @@
       "name": "Employee Manager",
       "image": "employeemgnt.gif",
       "deployLink": "https://github.com/Graphicaction/employee-tracker/blob/master/images/screen.gif",
-      "description": "'Employee-tracker' is a command line application that lets one to view and manage the departments, roles, and employees in a company.",
+      "description": "This is a CLI application that lets one to view and manage the departments, roles, and employees.",
       "github": "https://github.com/Graphicaction/employee-tracker",
       "technologies":["Node js", "Mysql", "Express", "Jest"]
     },
@@ -52,15 +52,6 @@
       "description": "The weather application comes with search functionality to find current weather conditions and the future weather outlook for multiple cities.",
       "github": "https://github.com/Graphicaction/weatherApi",
       "technologies":["HTML", "CSS", "JavaScript", "jQuery", "AJAX"]
-    },
-    {
-      "id": 7,
-      "name": "Readme generator",
-      "image": "readScreen.gif",
-      "deployLink": "https://github.com/Graphicaction/readme-generator/blob/master/images/screen.gif",
-      "description": "'Readme-generator' application comes handy for users to create readme file for the repositories.",
-      "github": "https://github.com/Graphicaction/readme-generator",
-      "technologies":["Node js", "Mysql", "Express", "Jest"]
     }
   ]
   

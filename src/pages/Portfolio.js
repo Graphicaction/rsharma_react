@@ -29,9 +29,9 @@ function Portfolio() {
     {projects.length ? (
       <ProjectContext.Provider value={{ project, projects }}>
         <div>
-          <div className="border-top border-bottom border-dark text-center py-2 headings h1">
+          <p className="border-top border-bottom text-center border-dark py-2 headings h1">
           My latest projects
-          </div>
+          </p>
           <CardContainer />
         </div>
       </ProjectContext.Provider>
