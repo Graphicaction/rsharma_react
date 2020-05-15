@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "name": "Budget Tracker",
-      "image": "budgetScreen.png",
-      "deployLink": "https://budget-trac.herokuapp.com/",
-      "description": "Budget tracker app is a PWA app.This app is a fast and easy way to track users money flow by allowing them to access that information anytime(online or offline).",
-      "github": "https://github.com/Graphicaction/Budget-Trac",
-      "technologies":["HTML", "CSS", "JavaScript", "Chart.js", "PWA"]
+      "name": "Employee Directory",
+      "image": "employeeDirScreen.png",
+      "deployLink": "https://graphicaction.github.io/employee-directory/",
+      "description": "The app enables one to view non-sensitive data about other employees. The app enables us to filter employees by name and sort employees by first name, last name, department or years worked.",
+      "github": "https://github.com/Graphicaction/employee-directory",
+      "technologies":["React","Nodejs", "PWA"]
     },
     {
       "id": 2,
