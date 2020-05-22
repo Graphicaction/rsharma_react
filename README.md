@@ -16,9 +16,9 @@ This project is designed in React, using create-react-app.
 
 ## <a name="deploy"></a>Deployed Link:
 
-https://graphicaction.github.io/employee-directory/
+https://graphicaction.github.io/rsharma_react/#/
 
-![ScreenShot](assets/images/about.png "About Me")
+![ScreenShot](src/images/about.png "About Me")
 
 ## <a name="license"></a>License:
  <i>MIT Copyright (c). All rights reserved.</i>
