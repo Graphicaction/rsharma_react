@@ -10,7 +10,7 @@ nav.navbar.navbar-default {
 
 /* style for left section and all buttons */
 .nav-block, .btn {
-  background-color: maroon;
+  background-color: rgb(99, 4, 4);
   opacity:0.8;
   color: white;
 }

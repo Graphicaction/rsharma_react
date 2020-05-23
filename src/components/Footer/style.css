@@ -1,18 +1,10 @@
-/* .footer {
-    background: #E5E5E5;
-    position: relative;
-  }*/
-  
-  .footer span {
+.footer span {
     padding: 3px;
   } 
 
-  /* Following CSS for sticky footer */
 .footer {
-  /* width: 100%; */
   text-align: center;
   background-color: #666666;
   border-top: 8px solid maroon;
   color:#DDDDDD;
-  flex-shrink: 0;
 }

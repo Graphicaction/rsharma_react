@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => (
   <div>
-    <div className="border-top border-bottom border-dark text-center py-2 headings h1">
+    <div className="border-top text-center py-2 headings h1">
         Contact me
     </div>
     <div className="shadow mt-5" id="contact-div">
