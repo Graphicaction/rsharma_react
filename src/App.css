@@ -1,6 +1,7 @@
 
 
 .my-page {
+    height: 100%;
     background-image: url(./images/backgroundImg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -9,7 +10,10 @@
 
 .tech-btn {
     display: inline;
-    border: 1px solid maroon;
-    border-radius: 45%;
+    border: 1px solid green;
     background-color: lightgray;
+}
+
+.row {
+    height: inherit;
 }

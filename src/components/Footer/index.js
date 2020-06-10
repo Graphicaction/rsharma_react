@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <span>&copy; Copyright</span>
+      <span className="p-2">&copy; Copyright</span>
     </footer>
   );
 }

@@ -13,7 +13,7 @@ function Navbar() {
       </div>
       <div className="nav flex-column">
         <ul className="navbar-nav">
-          <li className="nav-item mb-1">
+          <li className="nav-item my-2">
             <Link
               to="/"
               className={
@@ -25,7 +25,7 @@ function Navbar() {
               About me
             </Link>
           </li> 
-          <li className="nav-item mb-1">
+          <li className="nav-item my-2">
             <Link
               to="/portfolio"
               className={window.location.pathname === "/portfolio" ? "nav-link active font-weight-bold" : "nav-link font-weight-bold"}
@@ -33,7 +33,7 @@ function Navbar() {
               Portfolio
             </Link>
           </li>
-          <li className="nav-item mb-1">
+          <li className="nav-item my-2">
             <Link
               to="/contact"
               className={window.location.pathname === "/contact" ? "nav-link active font-weight-bold" : "nav-link font-weight-bold"}
