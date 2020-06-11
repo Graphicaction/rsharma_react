@@ -14,7 +14,7 @@ function CardContainer() {
           <div className="col-sm-5 col-md-5 col-lg-5 my-4" key={project.id}>
               <div className="card border-dark text-center">
                 <a rel="noopener noreferrer" href={project.deployLink} target="_blank">
-                    <img src={require(`../../images/${project.image}`)} className="card-img" alt="budget-tracker" key={project.name} /></a>
+                    <img src={require(`../../images/${project.image}`)} className="card-img" alt="project screens" key={project.name} /></a>
                 <div className="card-body">
                   <h4 className="card-title">{project.name}</h4>
                   <p className="card-text">{project.description}</p>
