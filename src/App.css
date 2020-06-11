@@ -1,7 +1,7 @@
 
 
 .my-page {
-    height: 100%;
+    min-height: 100%;
     background-image: url(./images/backgroundImg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
