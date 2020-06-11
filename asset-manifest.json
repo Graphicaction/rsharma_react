@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rsharma_react/static/css/main.e03f22bc.chunk.css",
-    "main.js": "/rsharma_react/static/js/main.d4ec31d2.chunk.js",
-    "main.js.map": "/rsharma_react/static/js/main.d4ec31d2.chunk.js.map",
+    "main.css": "/rsharma_react/static/css/main.4dc82123.chunk.css",
+    "main.js": "/rsharma_react/static/js/main.508b3a90.chunk.js",
+    "main.js.map": "/rsharma_react/static/js/main.508b3a90.chunk.js.map",
     "runtime-main.js": "/rsharma_react/static/js/runtime-main.24702bdc.js",
     "runtime-main.js.map": "/rsharma_react/static/js/runtime-main.24702bdc.js.map",
     "static/js/2.7becc867.chunk.js": "/rsharma_react/static/js/2.7becc867.chunk.js",
     "static/js/2.7becc867.chunk.js.map": "/rsharma_react/static/js/2.7becc867.chunk.js.map",
     "index.html": "/rsharma_react/index.html",
-    "precache-manifest.7442f3b109e0e2cd5d7e381804ecbfc0.js": "/rsharma_react/precache-manifest.7442f3b109e0e2cd5d7e381804ecbfc0.js",
+    "precache-manifest.07be1266f3dbb90f5a0a638864c3542a.js": "/rsharma_react/precache-manifest.07be1266f3dbb90f5a0a638864c3542a.js",
     "service-worker.js": "/rsharma_react/service-worker.js",
-    "static/css/main.e03f22bc.chunk.css.map": "/rsharma_react/static/css/main.e03f22bc.chunk.css.map",
+    "static/css/main.4dc82123.chunk.css.map": "/rsharma_react/static/css/main.4dc82123.chunk.css.map",
     "static/js/2.7becc867.chunk.js.LICENSE.txt": "/rsharma_react/static/js/2.7becc867.chunk.js.LICENSE.txt",
     "static/media/about.png": "/rsharma_react/static/media/about.ec30e70a.png",
     "static/media/burgerScreen.png": "/rsharma_react/static/media/burgerScreen.927bbc62.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.24702bdc.js",
     "static/js/2.7becc867.chunk.js",
-    "static/css/main.e03f22bc.chunk.css",
-    "static/js/main.d4ec31d2.chunk.js"
+    "static/css/main.4dc82123.chunk.css",
+    "static/js/main.508b3a90.chunk.js"
   ]
 }
