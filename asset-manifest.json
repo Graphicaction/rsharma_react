@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/rsharma_react/static/css/main.e03f22bc.chunk.css",
-    "main.js": "/rsharma_react/static/js/main.dc01ca17.chunk.js",
-    "main.js.map": "/rsharma_react/static/js/main.dc01ca17.chunk.js.map",
+    "main.js": "/rsharma_react/static/js/main.d4ec31d2.chunk.js",
+    "main.js.map": "/rsharma_react/static/js/main.d4ec31d2.chunk.js.map",
     "runtime-main.js": "/rsharma_react/static/js/runtime-main.24702bdc.js",
     "runtime-main.js.map": "/rsharma_react/static/js/runtime-main.24702bdc.js.map",
-    "static/js/2.b331286d.chunk.js": "/rsharma_react/static/js/2.b331286d.chunk.js",
-    "static/js/2.b331286d.chunk.js.map": "/rsharma_react/static/js/2.b331286d.chunk.js.map",
+    "static/js/2.7becc867.chunk.js": "/rsharma_react/static/js/2.7becc867.chunk.js",
+    "static/js/2.7becc867.chunk.js.map": "/rsharma_react/static/js/2.7becc867.chunk.js.map",
     "index.html": "/rsharma_react/index.html",
-    "precache-manifest.af12fdece67873014c08297574053c68.js": "/rsharma_react/precache-manifest.af12fdece67873014c08297574053c68.js",
+    "precache-manifest.7442f3b109e0e2cd5d7e381804ecbfc0.js": "/rsharma_react/precache-manifest.7442f3b109e0e2cd5d7e381804ecbfc0.js",
     "service-worker.js": "/rsharma_react/service-worker.js",
     "static/css/main.e03f22bc.chunk.css.map": "/rsharma_react/static/css/main.e03f22bc.chunk.css.map",
-    "static/js/2.b331286d.chunk.js.LICENSE.txt": "/rsharma_react/static/js/2.b331286d.chunk.js.LICENSE.txt",
+    "static/js/2.7becc867.chunk.js.LICENSE.txt": "/rsharma_react/static/js/2.7becc867.chunk.js.LICENSE.txt",
     "static/media/about.png": "/rsharma_react/static/media/about.ec30e70a.png",
     "static/media/burgerScreen.png": "/rsharma_react/static/media/burgerScreen.927bbc62.png",
     "static/media/code-query.png": "/rsharma_react/static/media/code-query.d302803c.png",
     "static/media/employeeDirScreen.png": "/rsharma_react/static/media/employeeDirScreen.5663a379.png",
     "static/media/employeemgnt.gif": "/rsharma_react/static/media/employeemgnt.0b477f8a.gif",
+    "static/media/miles4smiles.png": "/rsharma_react/static/media/miles4smiles.8e340590.png",
     "static/media/mypic.jpg": "/rsharma_react/static/media/mypic.e8332c79.jpg",
     "static/media/readScreen.gif": "/rsharma_react/static/media/readScreen.ce97f090.gif",
     "static/media/weatherScreen.png": "/rsharma_react/static/media/weatherScreen.04d2a5f8.png",
@@ -24,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.24702bdc.js",
-    "static/js/2.b331286d.chunk.js",
+    "static/js/2.7becc867.chunk.js",
     "static/css/main.e03f22bc.chunk.css",
-    "static/js/main.dc01ca17.chunk.js"
+    "static/js/main.d4ec31d2.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "249a6c518bb393162a4e1f2ebadf260f",
+    "revision": "efa3b3d4dbfadef1b127c126e5b40b8c",
     "url": "/rsharma_react/index.html"
   },
   {
-    "revision": "0adcb368e404b97587ef",
+    "revision": "30f74398e66198a454dc",
     "url": "/rsharma_react/static/css/main.e03f22bc.chunk.css"
   },
   {
-    "revision": "710ca65bdc9f1bbde0b7",
-    "url": "/rsharma_react/static/js/2.b331286d.chunk.js"
+    "revision": "82af1a379c5911ef8909",
+    "url": "/rsharma_react/static/js/2.7becc867.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/rsharma_react/static/js/2.b331286d.chunk.js.LICENSE.txt"
+    "url": "/rsharma_react/static/js/2.7becc867.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0adcb368e404b97587ef",
-    "url": "/rsharma_react/static/js/main.dc01ca17.chunk.js"
+    "revision": "30f74398e66198a454dc",
+    "url": "/rsharma_react/static/js/main.d4ec31d2.chunk.js"
   },
   {
     "revision": "255ca1dbc685e4cdfe35",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b477f8ac654261c0131952e38b4866f",
     "url": "/rsharma_react/static/media/employeemgnt.0b477f8a.gif"
+  },
+  {
+    "revision": "8e3405906815eb6b82bd0af9e6a750ed",
+    "url": "/rsharma_react/static/media/miles4smiles.8e340590.png"
   },
   {
     "revision": "e8332c7911c3cdaf265d3844deb1931e",
