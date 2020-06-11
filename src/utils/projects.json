@@ -1,6 +1,15 @@
-[
+[   
     {
       "id": 1,
+      "name": "Miles4Smiles",
+      "image": "miles4smiles.png",
+      "deployLink": "https://miles4smiles.herokuapp.com/",
+      "description": "React Application that allows runners to connect, compete and create challenges that lead to donations to local businesses in their area.",
+      "github": "https://github.com/Graphicaction/Miles4Smiles",
+      "technologies":["MongoDB","Express","Reactjs","Node js","JSX"]
+    },
+    {
+      "id": 2,
       "name": "Employee Directory",
       "image": "employeeDirScreen.png",
       "deployLink": "https://graphicaction.github.io/employee-directory/",
@@ -9,7 +18,7 @@
       "technologies":["Reactjs","Nodejs", "PWA"]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Workout Logger",
       "image": "workoutScreen.png",
       "deployLink": "https://fitness-trac.herokuapp.com/",
@@ -18,22 +27,13 @@
       "technologies":["HTML", "CSS", "JavaScript", "Chart.js", "MongoDB"]
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Code Query",
       "image": "code-query.png",
       "deployLink": "https://code--query.herokuapp.com/",
       "description": "'Cody Query' is an application that allows bootcamp students to ask and manage questions and answers. The users connected can communicate in real-time.",
       "github": "https://github.com/Steffield/Mentor-Match",
       "technologies":["Handlebars", "Passport", "Sequelize", "Express", "Socket.io"]
-    },
-    {
-      "id": 4,
-      "name": "Eat-Da-Burger",
-      "image": "burgerScreen.png",
-      "deployLink": "https://eat-th-burger.herokuapp.com/",
-      "description": "'Eat-Da-Burger' is a restaurant app that lets users input the names of burgers they'd like to eat. Each burger in the waiting area also has a 'Devour it!' button. When the user clicks it, the burger will move to the right side of the page indicating it is devoured!",
-      "github": "https://github.com/Graphicaction/eat-da-burger",
-      "technologies":["Node js", "Mysql", "Express", "Handlebars"]
     },
     {
       "id": 5,
