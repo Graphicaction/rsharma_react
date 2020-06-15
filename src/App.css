@@ -15,5 +15,14 @@
 }
 
 .row {
-    height: inherit;
+    min-height: -webkit-fill-available;
+}
+
+tr {
+    line-height: 4rem;
+    font-size: x-large;
+}
+
+td .fa {
+    color:teal;
 }

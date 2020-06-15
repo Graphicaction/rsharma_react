@@ -19,30 +19,30 @@
     },
     {
       "id": 3,
-      "name": "Workout Logger",
-      "image": "workoutScreen.png",
-      "deployLink": "https://fitness-trac.herokuapp.com/",
-      "description": "Workout tracker app helps one to view, create and track daily workouts. The user can log multiple exercises in a workout on a given day.",
-      "github": "https://github.com/Graphicaction/workout_tracker",
-      "technologies":["HTML", "CSS", "JavaScript", "Chart.js", "MongoDB"]
-    },
-    {
-      "id": 4,
       "name": "Code Query",
       "image": "code-query.png",
       "deployLink": "https://code--query.herokuapp.com/",
       "description": "'Cody Query' is an application that allows bootcamp students to ask and manage questions and answers. The users connected can communicate in real-time.",
       "github": "https://github.com/Steffield/Mentor-Match",
-      "technologies":["Handlebars", "Passport", "Sequelize", "Express", "Socket.io"]
+      "technologies":["Handlebars", "Sequelize", "Express", "Socket.io"]
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Employee Manager",
       "image": "employeemgnt.gif",
       "deployLink": "https://github.com/Graphicaction/employee-tracker/blob/master/images/screen.gif",
       "description": "This is a CLI application that lets one to view and manage the departments, roles, and employees.",
       "github": "https://github.com/Graphicaction/employee-tracker",
       "technologies":["Node js", "Mysql", "Express", "Jest"]
+    },
+    {
+      "id": 5,
+      "name": "Workout Logger",
+      "image": "workoutScreen.png",
+      "deployLink": "https://fitness-trac.herokuapp.com/",
+      "description": "Workout tracker app helps one to view, create and track daily workouts. The user can log multiple exercises in a workout on a given day.",
+      "github": "https://github.com/Graphicaction/workout_tracker",
+      "technologies":["HTML", "CSS", "JavaScript", "Chart.js", "MongoDB"]
     },
     {
       "id": 6,
