@@ -24,7 +24,7 @@ const Contact = () => (
             </tr>   
             <tr className="mb-1">
               <td>Resume:</td>
-              <td className="contact-info-text"><a rel="noopener noreferrer" href="https://drive.google.com/file/d/1oxe1W96ayka9npp9I1wFITcd1_ORRCf3/view?usp=sharing" target="_blank"><i className="fa fa-sticky-note mr-3"></i> Rashmi Sharma</a></td>
+              <td className="contact-info-text"><a rel="noopener noreferrer" href="https://drive.google.com/file/d/1yu63o2YpDjTxKN1KihmP4QvXTxCt8evU/view?usp=sharing" target="_blank"><i className="fa fa-sticky-note mr-3"></i> Rashmi Sharma</a></td>
           </tr>
         </tbody>
                              

@@ -17,7 +17,7 @@ function CardContainer() {
                     <img src={require(`../../images/${project.image}`)} className="card-img" alt="project screens" key={project.name} /></a>
                 <div className="card-body">
                   <h4 className="card-title">{project.name}</h4>
-                  <p className="card-text">{project.description}</p>
+                  {/* <p className="card-text">{project.description}</p> */}
                   <p className="card-text mt-2"><button className="btn">Technologies Used</button></p>
                   <div className="card-text mt-1 d-flex justify-content-center">
                     <Row>
