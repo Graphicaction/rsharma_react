@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/rsharma_react/static/css/main.fefbbd77.chunk.css",
-    "main.js": "/rsharma_react/static/js/main.f6e8910f.chunk.js",
-    "main.js.map": "/rsharma_react/static/js/main.f6e8910f.chunk.js.map",
+    "main.js": "/rsharma_react/static/js/main.bb496e98.chunk.js",
+    "main.js.map": "/rsharma_react/static/js/main.bb496e98.chunk.js.map",
     "runtime-main.js": "/rsharma_react/static/js/runtime-main.24702bdc.js",
     "runtime-main.js.map": "/rsharma_react/static/js/runtime-main.24702bdc.js.map",
-    "static/js/2.7becc867.chunk.js": "/rsharma_react/static/js/2.7becc867.chunk.js",
-    "static/js/2.7becc867.chunk.js.map": "/rsharma_react/static/js/2.7becc867.chunk.js.map",
+    "static/js/2.0445dd03.chunk.js": "/rsharma_react/static/js/2.0445dd03.chunk.js",
+    "static/js/2.0445dd03.chunk.js.map": "/rsharma_react/static/js/2.0445dd03.chunk.js.map",
     "index.html": "/rsharma_react/index.html",
-    "precache-manifest.5bb9c356df3fb7568cda4ac2cf485540.js": "/rsharma_react/precache-manifest.5bb9c356df3fb7568cda4ac2cf485540.js",
+    "precache-manifest.b5e20aef9dbd0bc1f523848c4168206b.js": "/rsharma_react/precache-manifest.b5e20aef9dbd0bc1f523848c4168206b.js",
     "service-worker.js": "/rsharma_react/service-worker.js",
     "static/css/main.fefbbd77.chunk.css.map": "/rsharma_react/static/css/main.fefbbd77.chunk.css.map",
-    "static/js/2.7becc867.chunk.js.LICENSE.txt": "/rsharma_react/static/js/2.7becc867.chunk.js.LICENSE.txt",
+    "static/js/2.0445dd03.chunk.js.LICENSE.txt": "/rsharma_react/static/js/2.0445dd03.chunk.js.LICENSE.txt",
     "static/media/about.png": "/rsharma_react/static/media/about.ec30e70a.png",
     "static/media/burgerScreen.png": "/rsharma_react/static/media/burgerScreen.927bbc62.png",
     "static/media/code-query.png": "/rsharma_react/static/media/code-query.d302803c.png",
@@ -20,13 +20,14 @@
     "static/media/miles4smiles.png": "/rsharma_react/static/media/miles4smiles.ea6d1b01.png",
     "static/media/mypic.jpg": "/rsharma_react/static/media/mypic.e8332c79.jpg",
     "static/media/readScreen.gif": "/rsharma_react/static/media/readScreen.ce97f090.gif",
+    "static/media/spacedRepetition.png": "/rsharma_react/static/media/spacedRepetition.6c031411.png",
     "static/media/weatherScreen.png": "/rsharma_react/static/media/weatherScreen.04d2a5f8.png",
     "static/media/workoutScreen.png": "/rsharma_react/static/media/workoutScreen.4b24dc27.png"
   },
   "entrypoints": [
     "static/js/runtime-main.24702bdc.js",
-    "static/js/2.7becc867.chunk.js",
+    "static/js/2.0445dd03.chunk.js",
     "static/css/main.fefbbd77.chunk.css",
-    "static/js/main.f6e8910f.chunk.js"
+    "static/js/main.bb496e98.chunk.js"
   ]
 }
