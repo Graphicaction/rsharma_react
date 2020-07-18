@@ -10,12 +10,12 @@
     },
     {
       "id": 2,
-      "name": "Employee Directory",
-      "image": "employeeDirScreen.png",
-      "deployLink": "https://graphicaction.github.io/employee-directory/",
-      "description": "The app enables us to filter employees by name and sort employees by first name, last name, department or years worked.",
-      "github": "https://github.com/Graphicaction/employee-directory",
-      "technologies":["Reactjs","Nodejs", "PWA"]
+      "name": "Spaced Repetition Quiz",
+      "image": "spacedRepetition.png",
+      "deployLink": "https://github.com/Graphicaction/spaced-repetition-quiz",
+      "description": "Coding quiz based on spaced repetition algorithm allowing users to get focus more on harder concepts by getting more time if they answer the questions wrong.",
+      "github": "https://spaced-repetition-quiz.herokuapp.com/",
+      "technologies":["MongoDb","Express","Reactjs","Nodejs"]
     },
     {
       "id": 3,
