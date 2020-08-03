@@ -22,10 +22,6 @@ const Contact = () => (
                 <td>Github:</td>
                 <td className="contact-info-text"><a rel="noopener noreferrer" href="https://github.com/graphicaction" target="_blank"><i className="fa fa-github fa-lg mr-3"></i> Graphicaction</a></td>
             </tr>   
-            <tr className="mb-1">
-              <td>Resume:</td>
-              <td className="contact-info-text"><a rel="noopener noreferrer" href="https://drive.google.com/file/d/1yu63o2YpDjTxKN1KihmP4QvXTxCt8evU/view?usp=sharing" target="_blank"><i className="fa fa-sticky-note mr-3"></i> Rashmi Sharma</a></td>
-          </tr>
         </tbody>
                              
       </table>
