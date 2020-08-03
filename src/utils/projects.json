@@ -12,9 +12,9 @@
       "id": 2,
       "name": "Spaced Repetition Quiz",
       "image": "spacedRepetition.png",
-      "deployLink": "https://github.com/Graphicaction/spaced-repetition-quiz",
+      "deployLink": "https://spaced-repetition-quiz.herokuapp.com/",
       "description": "Coding quiz based on spaced repetition algorithm allowing users to get focus more on harder concepts by getting more time if they answer the questions wrong.",
-      "github": "https://spaced-repetition-quiz.herokuapp.com/",
+      "github": "https://github.com/Graphicaction/spaced-repetition-quiz",
       "technologies":["MongoDb","Express","Reactjs","Nodejs"]
     },
     {
